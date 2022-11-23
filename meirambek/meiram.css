@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800;900&family=Roboto:wght@100&display=swap');
+.wrapper{
+    width: 860px;
+    height: 1200px;
+    /* background-color: blue; */
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: black;
+    font-family:Manrope;
+
+}
+.ava{
+    width: 430px;
+    height: 250px;
+    background-color: rgb(199, 136, 0);
+    border-top-left-radius: 2000px;
+    border-bottom-left-radius: 2000px;
+    
+}
+.photo{
+    border-radius: 50%;
+    margin: 10%;
+    border-style:double;
+    border-width: 10px;
+}
+.skill{
+    background-color: rgb(199, 136, 0);
+    height: 950px;
+    width: 430px;
+    float: right;
+}
+.mskills{
+    margin: 10px;
+    line-height: 26px;
+}
+.uchebz{
+    line-height: 26px;
+    
+    width: 370px;
+
+}
+.obinfo{
+    color: aliceblue;
+    float: left;
+    margin: 20px;
+    
+}
+.massage{
+    margin: 30px;
+}
