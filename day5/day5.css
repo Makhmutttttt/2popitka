@@ -1,0 +1,157 @@
+.pr1{
+width: 200px;
+height: 200px;
+background-color: red;
+margin: 30px;
+}
+.pr2{
+width: 200px;
+height: 150px;
+margin-left: 30px;
+background-color: green;
+border: 10px solid;
+}
+.pr3{
+    width: 150px;
+    height: 200px;
+    margin: 40px 0px 40px 0px;
+    background-color: aqua;
+    padding: 20px;
+    border-bottom: dotted 20px orangered;
+}
+.pr4{
+display: block;
+width: 400px;
+height:20px;
+border: dashed 20px white;
+background-color: darkgoldenrod;
+text-align: center;
+}
+.pr5_1{
+    width: 120px;
+    height: 120px;
+    background-color: blue;
+    display: inline-block;
+    border: green 20px solid;
+}
+.pr5_2{
+    border: red 20px solid;
+    margin: 30px 40px 40px 30px;
+    width: 160px;
+    height: 160px;
+    display: inline-block;
+    clear: both;
+}
+.pr6_1{
+    clear: both;
+    width: 200px;
+    height: 200px;
+    border-top:red 20px solid;
+    border-right: greenyellow 20px solid;
+    border-bottom: blue 20px solid;
+    border-left: orange 20px solid;
+    
+    margin-left: 30px;
+    position: relative;
+    position: absolute;
+    
+}
+.second{
+
+   margin-top: 120px;
+   margin-left: 150px;
+   border-top: greenyellow 20px solid;
+   border-right: red 20px solid;
+   border-bottom: orange  20px solid;
+   border-left:  blue  20px solid;
+   position: relative;
+}
+
+
+
+
+.pr2_1{
+    clear: both;
+    border-top:blue 20px solid;
+    border-right:yellow 20px solid;
+    border-bottom:red 20px solid;
+    border-left:green 20px solid;
+    background-color: aquamarine;
+}
+.pr2_2{
+    clear: both;
+    width: 160px;
+    height:160px;
+    border: 20px solid;
+    border-top:yellow 20px solid;
+    border-right:red 20px solid;
+    border-bottom:green 20px solid;
+    border-left:blue 20px solid;
+    background-color: aquamarine;
+    margin: 60px;
+}
+.pr2_3{
+    clear: both;
+    width: 120px;
+    height:120px;
+    border: 20px solid;
+    border-top:blue 20px solid;
+    border-right:yellow 20px solid;
+    border-bottom:red 20px solid;
+    border-left:green 20px solid;
+    background-color: aquamarine;
+}
+.pr2_4{
+    clear: both;
+    width: 80px;
+    height:80px;
+    border: 20px solid;
+    border-top:green 20px solid;
+    border-right:blue 20px solid;
+    border-bottom:yellow 20px solid;
+    border-left:red 20px solid;
+    background-color: aquamarine;
+}
+.pr2_5{
+    clear: both;
+    width: 40px;
+    height:40px;
+    border: 20px solid;
+    border-top:red 20px solid;
+    border-right:green 20px solid;
+    border-bottom:blue 20px solid;
+    border-left:yellow 20px solid;
+    background-color: aquamarine;
+}
+.pr33{
+    width: 200px;
+    height: 80px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-align: center;
+    font-size: 32px;
+    border-radius: 10px;
+    
+}
+.krai{
+    margin-left: 60px;
+}
+.oneB{
+    background-color: rgb(0, 241, 72);
+}
+.twoB{
+    background-color: rgb(209, 0, 228);
+}
+.threeB{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+.fourB{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+}
+.pr33 p{
+    margin-top: 20px;
+}
